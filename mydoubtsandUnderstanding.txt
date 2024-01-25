@@ -1,0 +1,7 @@
+doubts :
+
+1. why sqlalchemy ORM vs core?
+2. what is use of engine in the sqlalchemy
+3. what is sessionmaker in orm?
+4 how orm is differnt than core
+5. when to use which ?
